@@ -4,7 +4,7 @@
 
 <h3 align = "left"> The following steps will be part of our project 💻 </h3>
 
-- Here we will learn different concepts of NLP.
+- Thae mainly used library is langchain.
 -
 -
 -
