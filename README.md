@@ -4,3 +4,6 @@
 
 <h3 align = "left"> The following steps will be part of our project 💻 </h3>
 
+- Open AI base model.
+- Lang chain frame work.
+- Commercial solutions using RAG, finetuen and build the agents.
